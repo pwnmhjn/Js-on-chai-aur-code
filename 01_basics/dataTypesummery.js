@@ -39,3 +39,9 @@ console.log("Hello World")
 }
 
 console.log(typeof(myfunction))
+
+
+
+//****************************************** */
+
+//Stack (Primitive) ,Heap (Non-Primitive)
